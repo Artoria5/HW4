@@ -1,0 +1,17 @@
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\bin\Debug\net8.0-windows\Sim Registration.exe
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\bin\Debug\net8.0-windows\Sim Registration.deps.json
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\bin\Debug\net8.0-windows\Sim Registration.runtimeconfig.json
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\bin\Debug\net8.0-windows\Sim Registration.dll
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\bin\Debug\net8.0-windows\Sim Registration.pdb
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim_Registration.Form1.resources
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim_Registration.Form2.resources
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.AssemblyInfo.cs
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.dll
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\refint\Sim Registration.dll
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.pdb
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\Sim Registration.genruntimeconfig.cache
+C:\Users\mario\source\repos\Sim Registration\Sim Registration\obj\Debug\net8.0-windows\ref\Sim Registration.dll
